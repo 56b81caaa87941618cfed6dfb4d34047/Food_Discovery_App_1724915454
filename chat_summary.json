@@ -24,5 +24,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello' button to be placed in the app?\", \"option1\": \"In the main menu\", \"option2\": \"On the homepage\"}, {\"question 2\": \"What style do you envision for the 'Hello' button?\", \"option1\": \"Round with bright colors\", \"option2\": \"Square with a minimalistic design\"}], \"input_token_count\": 289, \"output_token_count\": 91, \"time_taken\": \"0:00:02.727854\"}",
         "timestamp": "29082024071151",
         "message_id": "guest29082024071144"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a button that says 'Goodbye' for a friendly farewell\", \"checked\": false}, {\"feature\": \"Include a pop-up notification when the button is clicked\", \"checked\": true}, {\"feature\": \"Add a unique sound when the button is pressed\", \"checked\": false}, {\"feature\": \"Create a toggle option to change the button text\", \"checked\": true}, {\"feature\": \"Implement a style option for the button (color/size)\", \"checked\": true}], \"input_token_count\": 243, \"output_token_count\": 113, \"time_taken\": \"0:00:02.729730\"}",
+        "timestamp": "29082024071151",
+        "message_id": "guest29082024071144"
     }
 ]
