@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a button tthat says hello",
+        "message_id": "guest29082024071144",
+        "timestamp": "29082024071145",
+        "component_file_name": "simple_footer_component_1724915460",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "makeinfinite",
         "content": "Can you describe the project a bit more?",
         "message_id": "project_init",
