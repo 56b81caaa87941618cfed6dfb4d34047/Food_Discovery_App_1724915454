@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello' button to be placed in the app?\", \"option1\": \"In the main menu\", \"option2\": \"On the homepage\"}, {\"question 2\": \"What style do you envision for the 'Hello' button?\", \"option1\": \"Round with bright colors\", \"option2\": \"Square with a minimalistic design\"}], \"input_token_count\": 289, \"output_token_count\": 91, \"time_taken\": \"0:00:02.727854\"}",
+        "message_id": "guest29082024071144",
+        "timestamp": "29082024071151",
+        "component_file_name": "simple_footer_component_1724915460",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I\u2019m adding a button that says hello now.",
         "message_id": "guest29082024071144",
