@@ -20,6 +20,11 @@ INSTRUCTION: Both of these lines are center aligned.
                 <div id="footer-text" class="flex-1 block text-sm text-center text-gray-500 dark:text-gray-400">
                     © 2023 FoodieFind. Discover, share, and savor delicious experiences.
                 </div>
+                <div class="flex-1 flex justify-center mt-4">
+                    <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+                        Zero
+                    </button>
+                </div>
             </div>
         </div>
     </footer>
