@@ -89,6 +89,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_acknowledge",
+        "content": "Okay, I\u2019m adding a button with the text \"Zero.\"",
+        "message_id": "guest03092024094532",
+        "timestamp": "03092024094534",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a button with text Zero",
         "message_id": "guest03092024094532",
