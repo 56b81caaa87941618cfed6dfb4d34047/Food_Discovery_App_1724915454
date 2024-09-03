@@ -87,5 +87,14 @@
         "timestamp": "1724915460",
         "component_file_name": "",
         "div_id": ""
+    },
+    {
+        "role": "user",
+        "content": "add a button with text Zero",
+        "message_id": "guest03092024094532",
+        "timestamp": "03092024094533",
+        "component_file_name": "simple_footer_component_1724915460",
+        "div_id": "",
+        "div_action": ""
     }
 ]

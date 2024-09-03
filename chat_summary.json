@@ -1,5 +1,86 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where do you want the 'Hello' button to be placed in the app?\", \"option1\": \"At the top of the screen\", \"option2\": \"At the bottom of the screen\"}, {\"question 2\": \"What style do you prefer for the 'Hello' button?\", \"option1\": \"Rounded edges\", \"option2\": \"Square edges\"}], \"input_token_count\": 325, \"output_token_count\": 88, \"time_taken\": \"0:00:02.595244\"}",
+        "message_id": "guest29082024072542",
+        "timestamp": "29082024072548",
+        "component_file_name": "simple_footer_component_1724915460",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'll add a button that says hello.",
+        "message_id": "guest29082024072542",
+        "timestamp": "29082024072545",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello' button to be placed in the app?\", \"option1\": \"At the top of the screen\", \"option2\": \"At the bottom of the screen\"}, {\"question 2\": \"What color do you envision for the 'Hello' button?\", \"option1\": \"Blue\", \"option2\": \"Green\"}], \"input_token_count\": 302, \"output_token_count\": 86, \"time_taken\": \"0:00:02.101655\"}",
+        "message_id": "guest29082024071223",
+        "timestamp": "29082024071227",
+        "component_file_name": "simple_footer_component_1724915460",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Okay, I'll work on adding a button that says hello.",
+        "message_id": "guest29082024071223",
+        "timestamp": "29082024071224",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a button that says hello",
+        "message_id": "guest29082024071223",
+        "timestamp": "29082024071223",
+        "component_file_name": "simple_footer_component_1724915460",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a button that says 'Goodbye' for a friendly farewell\", \"checked\": false}, {\"feature\": \"Include a pop-up notification when the button is clicked\", \"checked\": true}, {\"feature\": \"Add a unique sound when the button is pressed\", \"checked\": false}, {\"feature\": \"Create a toggle option to change the button text\", \"checked\": true}, {\"feature\": \"Implement a style option for the button (color/size)\", \"checked\": true}], \"input_token_count\": 243, \"output_token_count\": 113, \"time_taken\": \"0:00:02.729730\"}",
+        "message_id": "guest29082024071144",
+        "timestamp": "29082024071151",
+        "component_file_name": "simple_footer_component_1724915460",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello' button to be placed in the app?\", \"option1\": \"In the main menu\", \"option2\": \"On the homepage\"}, {\"question 2\": \"What style do you envision for the 'Hello' button?\", \"option1\": \"Round with bright colors\", \"option2\": \"Square with a minimalistic design\"}], \"input_token_count\": 289, \"output_token_count\": 91, \"time_taken\": \"0:00:02.727854\"}",
+        "message_id": "guest29082024071144",
+        "timestamp": "29082024071151",
+        "component_file_name": "simple_footer_component_1724915460",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Sure, I\u2019m adding a button that says hello now.",
+        "message_id": "guest29082024071144",
+        "timestamp": "29082024071146",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a button tthat says hello",
+        "message_id": "guest29082024071144",
+        "timestamp": "29082024071145",
+        "component_file_name": "simple_footer_component_1724915460",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "makeinfinite",
         "content": "Can you describe the project a bit more?",
         "message_id": "project_init",
@@ -8,57 +89,9 @@
         "div_id": ""
     },
     {
-        "role": "user",
-        "content": "add a button tthat says hello",
-        "timestamp": "29082024071145",
-        "message_id": "guest29082024071144"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Sure, I\u2019m adding a button that says hello now.",
-        "timestamp": "29082024071146",
-        "message_id": "guest29082024071144"
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello' button to be placed in the app?\", \"option1\": \"In the main menu\", \"option2\": \"On the homepage\"}, {\"question 2\": \"What style do you envision for the 'Hello' button?\", \"option1\": \"Round with bright colors\", \"option2\": \"Square with a minimalistic design\"}], \"input_token_count\": 289, \"output_token_count\": 91, \"time_taken\": \"0:00:02.727854\"}",
-        "timestamp": "29082024071151",
-        "message_id": "guest29082024071144"
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a button that says 'Goodbye' for a friendly farewell\", \"checked\": false}, {\"feature\": \"Include a pop-up notification when the button is clicked\", \"checked\": true}, {\"feature\": \"Add a unique sound when the button is pressed\", \"checked\": false}, {\"feature\": \"Create a toggle option to change the button text\", \"checked\": true}, {\"feature\": \"Implement a style option for the button (color/size)\", \"checked\": true}], \"input_token_count\": 243, \"output_token_count\": 113, \"time_taken\": \"0:00:02.729730\"}",
-        "timestamp": "29082024071151",
-        "message_id": "guest29082024071144"
-    },
-    {
-        "role": "user",
-        "content": "add a button that says hello",
-        "timestamp": "29082024071223",
-        "message_id": "guest29082024071223"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Okay, I'll work on adding a button that says hello.",
-        "timestamp": "29082024071224",
-        "message_id": "guest29082024071223"
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello' button to be placed in the app?\", \"option1\": \"At the top of the screen\", \"option2\": \"At the bottom of the screen\"}, {\"question 2\": \"What color do you envision for the 'Hello' button?\", \"option1\": \"Blue\", \"option2\": \"Green\"}], \"input_token_count\": 302, \"output_token_count\": 86, \"time_taken\": \"0:00:02.101655\"}",
-        "timestamp": "29082024071227",
-        "message_id": "guest29082024071223"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Sure, I'll add a button that says hello.",
-        "timestamp": "29082024072545",
-        "message_id": "guest29082024072542"
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where do you want the 'Hello' button to be placed in the app?\", \"option1\": \"At the top of the screen\", \"option2\": \"At the bottom of the screen\"}, {\"question 2\": \"What style do you prefer for the 'Hello' button?\", \"option1\": \"Rounded edges\", \"option2\": \"Square edges\"}], \"input_token_count\": 325, \"output_token_count\": 88, \"time_taken\": \"0:00:02.595244\"}",
-        "timestamp": "29082024072548",
-        "message_id": "guest29082024072542"
+        "role": "summary",
+        "content": "add a button with text Zero",
+        "timestamp": "03092024094533",
+        "message_id": "guest03092024094532"
     }
 ]
