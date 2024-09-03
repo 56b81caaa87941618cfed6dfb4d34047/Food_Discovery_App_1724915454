@@ -89,6 +89,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific functionality do you want the button labeled 'Zero' to have?\", \"option1\": \"It should perform a specific action when clicked\", \"option2\": \"It should just display the text without any action\"}, {\"question 2\": \"Where would you like this button to be positioned within the app layout?\", \"option1\": \"At the top of the page\", \"option2\": \"At the bottom of the page\"}], \"input_token_count\": 344, \"output_token_count\": 102, \"time_taken\": \"0:00:01.957064\"}",
+        "message_id": "guest03092024094532",
+        "timestamp": "03092024094538",
+        "component_file_name": "simple_footer_component_1724915460",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, I\u2019m adding a button with the text \"Zero.\"",
         "message_id": "guest03092024094532",
